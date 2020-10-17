@@ -1,0 +1,7 @@
+*
+!*/
+!Cargo.toml
+!.gitignore
+!README.md
+!src/**
+!static/**
