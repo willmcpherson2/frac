@@ -21,3 +21,7 @@ cargo run
 **Right Arrow**: step evaluation (can be used to fast-forward)
 
 **S**: switch strategy ("assign", "OR")
+
+# Video Demo
+
+[https://www.youtube.com/watch?v=eGxcfDnLArg](https://www.youtube.com/watch?v=eGxcfDnLArg)
